@@ -1,0 +1,6 @@
+{
+  "name": "Phồn Thể Studio",
+  "description": "Ứng dụng học tiếng Trung Phồn thể dễ hiểu, hỗ trợ ghi nhớ từ vựng thông minh và luyện viết chữ Hán từng nét.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
